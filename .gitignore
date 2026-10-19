@@ -1,0 +1,7 @@
+pycache/
+*.pyc
+venv/
+hashes.json
+logs.txt
+monitor_folder/
+.vscode/
